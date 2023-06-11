@@ -2,6 +2,7 @@
 
 ![image](https://github.com/Navesz/tailwind-spotify/assets/58537948/cfce6287-bc8c-4279-b766-7ccf22d7cdce)
 
+Site: https://tailwind-spotify-nu.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
